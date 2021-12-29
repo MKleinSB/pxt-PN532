@@ -1,7 +1,7 @@
 {
     "name": "pxt-pn532",
     "version": "0.0.0",
-    "description": "",
+    "description": "MakeCode extension for PN532 NFC RFID module",
     "dependencies": {
         "core": "*",
         "radio": "*"
@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "pn532.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -18,5 +19,5 @@
     "supportedTargets": [
         "calliopemini"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
