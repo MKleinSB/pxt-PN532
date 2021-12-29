@@ -1,6 +1,6 @@
 {
     "name": "pxt-pn532",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "MakeCode extension for PN532 NFC RFID module",
     "dependencies": {
         "core": "*",
